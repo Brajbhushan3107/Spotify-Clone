@@ -1,0 +1,21 @@
+.border{
+border: 2px solid red;
+}
+.justify{
+justify-content: center;
+}
+align_center{
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
+.hover{
+    cursor: pointer;
+}
+/* :hover{
+    transform: scale(1.25);
+} */
+ .invert{
+    filter: invert();
+ }
